@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-今天的2024.01.17
+今天是2024.01.17
 
 
 You can use the [editor on GitHub](https://github.com/apkto/apkto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
